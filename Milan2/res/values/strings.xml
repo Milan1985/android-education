@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Milan</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button">Posalji</string>
+    <string name="android_unos_ime">Unesite svoje ime</string>
+    <string name="android_unos_prezime">Unesite svoje prezime</string>
+        <string name="android_unos_adresa">Unesite svoju adresu</string>
+    
+    
+
+</resources>
